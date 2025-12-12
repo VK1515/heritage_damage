@@ -1,0 +1,4 @@
+building_id,location_lat,location_lon,age,material_type
+B001,18.52043,73.856743,120,stone
+B002,19.07609,72.877426,80,brick
+B003,28.613939,77.209023,60,masonry

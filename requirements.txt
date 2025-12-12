@@ -1,0 +1,14 @@
+streamlit>=1.20.0
+pandas>=1.5.0
+numpy>=1.24.0
+scikit-learn>=1.2.2
+matplotlib
+openpyxl
+joblib
+folium
+# Optional (install only if you want improved boosters/probabilistic models/explainability)
+lightgbm
+catboost
+ngboost
+shap
+imbalanced-learn
